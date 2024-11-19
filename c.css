@@ -2,9 +2,8 @@
     width: 430px;
     margin: 0 auto;
 }
-
-.result{
-    width: 430px;
+h1{
+    /* width: 430px; */
     margin: 0 auto;
     text-align: center;
 }
@@ -18,9 +17,6 @@
 }
 .form >*{
     width: 100%;
-}
-.result{
-    width: 350px;
 }
 
 input{
